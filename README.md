@@ -11,9 +11,3 @@ Check your STEAMID: via https://steamid.io/ by simply providing your steam commi
 ```sh
 C:\Program Files (x86)\Steam\userdata\YOUR_STEAMID\730\local\cfg
 ```
-
-## License
-
-None
-
-**It's Free Real Estate**
